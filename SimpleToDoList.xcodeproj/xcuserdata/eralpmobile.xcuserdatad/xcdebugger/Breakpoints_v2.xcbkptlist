@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0C326E44-9652-446D-8F33-95F9EC0F9486"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14962D62-4666-4E5C-9D9D-2BD53A9A0D1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shared/Views/ToDoListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "14962D62-4666-4E5C-9D9D-2BD53A9A0D1F - c804b6d655600c2c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onMove(perform: Swift.Optional&lt;(Foundation.IndexSet, Swift.Int) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationBarItems&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(leading: &#x3c4;_1_0, trailing: &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in SimpleToDoList.ToDoListView.body.getter : some"
+                  moduleName = "SimpleToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eralpmobile/Desktop/my-projects/SimpleToDoList/Shared/Views/ToDoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "14962D62-4666-4E5C-9D9D-2BD53A9A0D1F - 7c715dfed036c5ae"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SimpleToDoList.ToDoModel) -&gt; SwiftUI.Text in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onMove(perform: Swift.Optional&lt;(Foundation.IndexSet, Swift.Int) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationBarItems&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(leading: &#x3c4;_1_0, trailing: &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in SimpleToDoList.ToDoListView.body.getter : some"
+                  moduleName = "SimpleToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eralpmobile/Desktop/my-projects/SimpleToDoList/Shared/Views/ToDoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "14962D62-4666-4E5C-9D9D-2BD53A9A0D1F - 7c715dfed036c589"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SimpleToDoList.ToDoModel) -&gt; SwiftUI.Text in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onMove(perform: Swift.Optional&lt;(Foundation.IndexSet, Swift.Int) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationBarItems&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(leading: &#x3c4;_1_0, trailing: &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in SimpleToDoList.ToDoListView.body.getter : some"
+                  moduleName = "SimpleToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eralpmobile/Desktop/my-projects/SimpleToDoList/Shared/Views/ToDoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "1148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAE77D02-46F8-440E-B338-1776987D1C50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shared/Views/ToDoListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "CAE77D02-46F8-440E-B338-1776987D1C50 - 3303a9ab5f9b469b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleToDoList.ToDoListView.body.getter : some"
+                  moduleName = "SimpleToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eralpmobile/Desktop/my-projects/SimpleToDoList/Shared/Views/ToDoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "CAE77D02-46F8-440E-B338-1776987D1C50 - e48e04b90b0af7f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationBarItems&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: SwiftUI.View, &#x3c4;_1_1: SwiftUI.View&gt;(leading: &#x3c4;_1_0, trailing: &#x3c4;_1_1) -&gt; some&gt;&gt;.0 in SimpleToDoList.ToDoListView.body.getter : some"
+                  moduleName = "SimpleToDoList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eralpmobile/Desktop/my-projects/SimpleToDoList/Shared/Views/ToDoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "672">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
